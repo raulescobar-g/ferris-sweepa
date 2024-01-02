@@ -76,7 +76,7 @@
            &kp UNDER  &kp LBRC    &kp DQT    &kp LPAR   &kp LBKT      &kp RBKT   &kp RPAR   &kp SQT    &kp RBRC  &kp MINUS
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  `       │  ~       │          │          │          │   │          │          │          │   \      │  |       │
-           &kp GRAVE  &kp TILDE   &trans     &trans     &trans         &trans     &trans      &trans   &kp BSLSH   &kp PIPE
+           &kp GRAVE  &kp TILDE   &trans     &trans     &trans         &trans     &trans      &trans   &kp BSLH   &kp PIPE
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
